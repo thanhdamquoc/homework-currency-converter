@@ -1,0 +1,23 @@
+.amount-col {
+    width: 200px;
+    text-align: left;
+}
+.dropdown-col {
+    width: 200px;
+    text-align: left;
+}
+.convert-button {
+    background: blueviolet;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+}
+.dropdown-option {
+    width: 100px;
+}
+.amount-input {
+    width: 100px;
+}
+.output-p {
+    color: blue;
+}
